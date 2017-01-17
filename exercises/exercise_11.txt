@@ -1,0 +1,24 @@
+Ruby
+http://ruby-doc.org/
+It seems like this is the official Ruby documentation. Easy enough to browse, appears to have all the versions. I like that it is from the original source. It is a simple but clean interface.
+
+http://apidock.com/ruby/
+Have to admit: I'm not sure why this exists when there is the official version. Doesn't seem to have the latest versions of Ruby.
+
+Rails
+http://api.rubyonrails.org
+The original project api. I like that it is from the original source. It is a simple but clean interface.
+
+http://apidock.com/rails
+API Dock again. Not sure why this exists.
+
+Now, did the question mean APIs as interfaces to third-party services? Then...
+
+https://stripe.com/docs/api/ruby#intro
+Presentation is subjectively "prettier" than the Ruby/Rails documentation. I love how it progressively loads everything onto the page for access without a page refresh. Of course that's only really feasible because of a relative low amount of information. Winner.
+
+http://ruby.sketchup.com
+After looking at Stripe's attractive presentation, this one hurts my eyes a bit.
+
+https://developer.zendesk.com/rest_api/docs/api-clients/ruby
+Puts it all onto GitHub. When I'm more familiar with GitHub that might be okay, but for now it feels unapproachable compared to the others.
